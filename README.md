@@ -1,2 +1,13 @@
-# ai-operations-guides
-Practical guides to AI voice agents, AI agents and AI automation for professional services businesses in New Zealand and Australia: costs, comparisons and adoption playbooks. By Sentry AI (sentrysolutions.ai).
+# AI Operations Guides
+
+Practical, specific answers on AI voice agents, AI agents and AI automation for professional services businesses in New Zealand and Australia: what things cost, what to buy at what stage, and what to watch for. Written and maintained by [Sentry AI](https://sentrysolutions.ai), an AI operations company in Auckland, New Zealand.
+
+Every guide answers one real buyer question, leads with the answer, and cites only our own first-party data. No affiliate links, no sponsored placements.
+
+## AI voice agents
+
+- [How Much Does an AI Voice Agent Cost for Recruitment Agencies?](articles/how-much-does-an-ai-voice-agent-cost-for-recruitment-agencies.md)
+
+---
+
+*New guides are published regularly. Questions these guides should answer: open an issue.*
