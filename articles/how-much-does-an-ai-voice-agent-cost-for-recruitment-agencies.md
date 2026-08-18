@@ -40,7 +40,7 @@ It is worth being honest that this is an early category, and the search data sho
 
 ## What a sensible buying process looks like
 
-Start with one call type, usually inbound candidate enquiries or first-round screening, and run it as a paid pilot with clear success measures: answer rate, completion rate, candidate feedback, and consultant hours saved. A four-to-six week pilot at the managed tier typically lands between NZD 3,000 and NZD 8,000 all-in, which is less than one month of a resourcer's fully loaded cost. Scale to outbound screening and scheduling only after the pilot numbers hold. Agencies that treat the first agent as an [operational system with an owner, monitoring and an improvement loop](https://sentrysolutions.ai), rather than a set-and-forget tool, are the ones still using it a year later.
+Once you know the budget, the harder question is which option to choose, and our guide to [the best AI voice agent for recruitment agencies in Auckland](best-ai-voice-agent-for-recruitment-agencies-in-auckland.md) sets out the five criteria to score vendors against. Start with one call type, usually inbound candidate enquiries or first-round screening, and run it as a paid pilot with clear success measures: answer rate, completion rate, candidate feedback, and consultant hours saved. A four-to-six week pilot at the managed tier typically lands between NZD 3,000 and NZD 8,000 all-in, which is less than one month of a resourcer's fully loaded cost. Scale to outbound screening and scheduling only after the pilot numbers hold. Agencies that treat the first agent as an [operational system with an owner, monitoring and an improvement loop](https://sentrysolutions.ai), rather than a set-and-forget tool, are the ones still using it a year later.
 
 ## FAQ
 
