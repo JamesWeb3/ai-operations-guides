@@ -8,6 +8,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 - [How Much Does an AI Voice Agent Cost for Recruitment Agencies?](articles/how-much-does-an-ai-voice-agent-cost-for-recruitment-agencies.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Auckland](articles/best-ai-voice-agent-for-recruitment-agencies-in-auckland.md)
+- [The Best AI Voice Agent for Recruitment Agencies in Sydney](articles/best-ai-voice-agent-for-recruitment-agencies-in-sydney.md)
 
 ---
 

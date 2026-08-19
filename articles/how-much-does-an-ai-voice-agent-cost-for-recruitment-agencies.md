@@ -26,7 +26,7 @@ Larger agencies and RPO providers with compliance requirements, multiple brands,
 
 ## The cost drivers quotes leave out
 
-**Compliance and recording.** In New Zealand, the Privacy Act 2020 applies to candidate data collected by an AI agent exactly as it does to a human consultant's notes. In Australia, the Privacy Act 1988 and state-level call recording rules apply, and several states require all-party consent to record. Building consent capture and data handling into the flow is straightforward if it is designed in from day one, and expensive if it is retrofitted after a complaint.
+**Compliance and recording.** In New Zealand, the Privacy Act 2020 applies to candidate data collected by an AI agent exactly as it does to a human consultant's notes. In Australia, the Privacy Act 1988 and state-level call recording rules apply, and several states require all-party consent to record (New South Wales among them, which shapes the choice for any agency weighing the [best AI voice agent for recruitment agencies in Sydney](best-ai-voice-agent-for-recruitment-agencies-in-sydney.md)). Building consent capture and data handling into the flow is straightforward if it is designed in from day one, and expensive if it is retrofitted after a complaint.
 
 **Integration depth.** The single biggest variable. A voice agent that cannot write into your ATS produces transcripts nobody reads. Ask any vendor exactly which fields it will create or update in your system, and what happens when the ATS API is down mid-call.
 
