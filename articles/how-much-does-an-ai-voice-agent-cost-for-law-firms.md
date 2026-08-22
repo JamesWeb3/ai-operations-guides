@@ -36,7 +36,7 @@ Larger firms, multi-office practices and those with strict information-security 
 
 ## Is the demand real?
 
-It is worth being honest that this is an early category for legal. Across Sentry AI's own Google Search Console data for the 90 days to August 2026, the broader AI voice agent query cluster generated more than 690 impressions against our site, with average ranking positions beyond 60. Not one of those queries specified a law firm or legal practice: the demand is forming around adjacent verticals such as recruitment and real estate first. For a firm, that cuts two ways. There is no proven local playbook to copy yet, but there is also no incumbent, and the marketing and operational advantage of being early to a category is real.
+It is worth being honest that this is an early category for legal. Across Sentry AI's own Google Search Console data for the 90 days to August 2026, the broader AI voice agent query cluster generated more than 690 impressions against our site, with average ranking positions beyond 60. Not one of those queries specified a law firm or legal practice: the demand is forming around adjacent verticals such as recruitment and real estate first, and the same confidentiality-first buying logic carries into [how much an AI voice agent costs for medical clinics](how-much-does-an-ai-voice-agent-cost-for-medical-clinics.md), where health information privacy plays the role conflict-checking does in legal. For a firm, that cuts two ways. There is no proven local playbook to copy yet, but there is also no incumbent, and the marketing and operational advantage of being early to a category is real.
 
 ## What a sensible buying process looks like
 
