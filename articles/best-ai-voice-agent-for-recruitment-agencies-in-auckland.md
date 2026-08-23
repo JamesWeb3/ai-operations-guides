@@ -10,7 +10,7 @@ The rest of this guide sets out what "best" actually means for an Auckland agenc
 
 Voice-agent vendors compete on demos, but a demo is the easiest part. For a recruitment agency the value shows up in three unglamorous places: whether the call outcome lands in your ATS as a structured record, whether the agent answers when a candidate calls at 8pm, and whether someone is tuning it as you hear real screening calls. An agent that produces transcripts nobody reads is not better than voicemail, however impressive the voice sounds.
 
-So the best option for your agency is the one that scores highest on operational fit, not the one with the smoothest sales call. That reframing matters most in Auckland, where the candidate market is tight and most applicants are currently employed, so the calls that win placements happen outside office hours.
+So the best option for your agency is the one that scores highest on operational fit, not the one with the smoothest sales call. That reframing matters most in Auckland, where the candidate market is tight and most applicants are currently employed, so the calls that win placements happen outside office hours. If your agency runs desks beyond Auckland, our national guide to the [best AI voice agent for recruitment agencies in New Zealand](best-ai-voice-agent-for-recruitment-agencies-in-new-zealand.md) covers serving every branch from one agent.
 
 ## The five criteria to score every option against
 
