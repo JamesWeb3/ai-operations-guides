@@ -10,6 +10,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [How Much Does an AI Voice Agent Cost for Law Firms?](articles/how-much-does-an-ai-voice-agent-cost-for-law-firms.md)
 - [How Much Does an AI Voice Agent Cost for Medical Clinics?](articles/how-much-does-an-ai-voice-agent-cost-for-medical-clinics.md)
 - [The Best AI Voice Agent for Recruitment Agencies in New Zealand](articles/best-ai-voice-agent-for-recruitment-agencies-in-new-zealand.md)
+- [The Best AI Voice Agent for Recruitment Agencies in Australia](articles/best-ai-voice-agent-for-recruitment-agencies-in-australia.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Auckland](articles/best-ai-voice-agent-for-recruitment-agencies-in-auckland.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Melbourne](articles/best-ai-voice-agent-for-recruitment-agencies-in-melbourne.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Sydney](articles/best-ai-voice-agent-for-recruitment-agencies-in-sydney.md)
