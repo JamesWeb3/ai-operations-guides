@@ -15,6 +15,10 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [The Best AI Voice Agent for Recruitment Agencies in Melbourne](articles/best-ai-voice-agent-for-recruitment-agencies-in-melbourne.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Sydney](articles/best-ai-voice-agent-for-recruitment-agencies-in-sydney.md)
 
+## AI automation
+
+- [How Much Does AI Automation Cost for Recruitment Agencies in New Zealand?](articles/how-much-does-ai-automation-cost-for-recruitment-agencies-in-new-zealand.md)
+
 ---
 
 *New guides are published regularly. Questions these guides should answer: open an issue.*
