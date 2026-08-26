@@ -4,7 +4,7 @@
 
 The short answer: budget NZD 1,000 to NZD 6,000 per month for a managed AI automation programme covering two or three core workflows, plus a setup fee of NZD 5,000 to NZD 25,000. If you buy individual point tools yourself and wire them together, monthly software costs can sit under NZD 1,500, but you absorb the integration and maintenance work. A single-workflow pilot (usually CV screening or interview scheduling) is the cheapest honest entry point, and typically lands between NZD 3,000 and NZD 8,000 all-in for the first six weeks.
 
-The rest of this guide breaks down what "AI automation" actually covers for an agency, what each layer costs in New Zealand dollars, and the cost drivers that quotes tend to leave out.
+The rest of this guide breaks down what "AI automation" actually covers for an agency, what each layer costs in New Zealand dollars, and the cost drivers that quotes tend to leave out. Agencies operating across the Tasman should read the companion breakdown of [AI automation costs for recruitment agencies in Australia](how-much-does-ai-automation-cost-for-recruitment-agencies-in-australia.md), where the pricing and compliance specifics differ.
 
 ## What "AI automation" means for a recruitment agency
 
