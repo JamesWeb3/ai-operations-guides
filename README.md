@@ -12,6 +12,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [The Best AI Voice Agent for Recruitment Agencies in New Zealand](articles/best-ai-voice-agent-for-recruitment-agencies-in-new-zealand.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Australia](articles/best-ai-voice-agent-for-recruitment-agencies-in-australia.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Auckland](articles/best-ai-voice-agent-for-recruitment-agencies-in-auckland.md)
+- [The Best AI Voice Agent for Recruitment Agencies in Wellington](articles/best-ai-voice-agent-for-recruitment-agencies-in-wellington.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Melbourne](articles/best-ai-voice-agent-for-recruitment-agencies-in-melbourne.md)
 - [The Best AI Voice Agent for Recruitment Agencies in Sydney](articles/best-ai-voice-agent-for-recruitment-agencies-in-sydney.md)
 
