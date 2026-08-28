@@ -1,3 +1,10 @@
+---
+title: "How Much Does AI Automation Cost for Recruitment Agencies in New Zealand?"
+description: "AI automation for a New Zealand recruitment agency costs NZD 1,000 to 6,000 per month managed, plus NZD 5,000 to 25,000 setup. What drives the price."
+date: 2026-08-25
+keyword: "how much does ai automation cost for recruitment agencies in new zealand"
+---
+
 # How Much Does AI Automation Cost for Recruitment Agencies in New Zealand?
 
 > For a New Zealand recruitment agency, AI automation typically costs NZD 1,000 to NZD 6,000 per month for a managed programme, on top of a one-off setup of NZD 5,000 to NZD 25,000 depending on how many workflows you automate and how deeply they plug into your ATS. Point tools bought à la carte (CV parsing, scheduling, outreach) can start under NZD 500 per month each but rarely talk to each other. The price is driven by integration depth and the number of processes automated, not by the AI models themselves. Demand is real and largely unserved: across Sentry AI's own Google Search Console data for the 90 days to 25 August 2026, the five highest-volume recruitment AI-agent queries generated 577 impressions against our site alone, at an average ranking position outside the top 60.

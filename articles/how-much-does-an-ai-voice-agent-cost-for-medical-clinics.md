@@ -1,3 +1,10 @@
+---
+title: "How Much Does an AI Voice Agent Cost for Medical Clinics?"
+description: "An AI voice agent for a NZ or Australian medical clinic costs NZD 600 to 3,500 per month managed, plus NZD 4,000 to 15,000 to build. What sets the price."
+date: 2026-08-22
+keyword: "how much does an ai voice agent cost for medical clinics"
+---
+
 # How Much Does an AI Voice Agent Cost for Medical Clinics?
 
 > For a medical clinic in New Zealand or Australia, an AI voice agent typically costs NZD 600 to NZD 3,500 per month for a managed service, on top of a one-off build of NZD 4,000 to NZD 15,000. Self-serve platforms look cheaper (roughly USD 0.07 to USD 0.30 per call minute) but push patient-privacy handling, safe-triage boundaries and practice-management integration onto your own team. What moves the price is not the AI: it is health information privacy, the rule that the agent must never give clinical advice, and how deeply it plugs into your practice management system. Demand is early: across Sentry AI's own Google Search Console data for the 90 days to August 2026, the AI voice agent query cluster drew more than 700 impressions against our site, yet not one of those searches named a medical clinic, GP practice or healthcare provider, so the category has no incumbent answer for clinics at all.

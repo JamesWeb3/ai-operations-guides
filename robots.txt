@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamesweb3.github.io/ai-operations-guides/sitemap.xml

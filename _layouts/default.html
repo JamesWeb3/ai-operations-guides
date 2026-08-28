@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-NZ' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <style>
+    :root { --paper:#ffffff; --ink:#2a2a2a; --grey:#c4c4c4; --cream:#f7efc9; --muted:#6b6b6b; }
+    html { -webkit-text-size-adjust: 100%; }
+    body { margin:0; background:var(--paper); color:var(--ink); font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .wrap { max-width: 44rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+    header.site { display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:.9rem; color:var(--muted); border-bottom:1px solid var(--grey); padding-bottom:1rem; margin-bottom:2.5rem; }
+    header.site a { color:var(--ink); text-decoration:none; }
+    header.site a:hover { text-decoration:underline; }
+    h1 { font-size:2rem; line-height:1.2; letter-spacing:-.01em; margin:0 0 1.25rem; }
+    h2 { font-size:1.35rem; line-height:1.3; margin:2.5rem 0 .75rem; }
+    h3 { font-size:1.1rem; margin:1.75rem 0 .5rem; }
+    p, li { max-width: 40rem; }
+    a { color:var(--ink); }
+    blockquote { margin:0 0 1.75rem; padding:1rem 1.25rem; background:var(--cream); border-left:3px solid var(--ink); font-size:1rem; }
+    blockquote p { margin:0; }
+    table { border-collapse:collapse; width:100%; font-size:.95rem; margin:1rem 0; display:block; overflow-x:auto; }
+    th, td { text-align:left; padding:.5rem .6rem; border-bottom:1px solid var(--grey); vertical-align:top; }
+    hr { border:0; border-top:1px solid var(--grey); margin:2.5rem 0; }
+    footer.site { margin-top:3rem; padding-top:1rem; border-top:1px solid var(--grey); font-size:.9rem; color:var(--muted); }
+    footer.site a { color:var(--ink); }
+    .aog-tool { margin:1.75rem 0; padding:1.25rem; border:1px solid var(--grey); border-radius:6px; background:var(--paper); }
+    .aog-tool label { display:block; font-size:.9rem; margin:.5rem 0 .25rem; color:var(--muted); }
+    .aog-tool input, .aog-tool select { font:inherit; padding:.4rem .5rem; border:1px solid var(--grey); border-radius:4px; width:100%; max-width:18rem; box-sizing:border-box; }
+    .aog-tool output { display:block; margin-top:1rem; font-weight:600; }
+    .aog-tool small { color:var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="site">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <span>by <a href="https://sentrysolutions.ai">Sentry AI</a>, Auckland</span>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site">
+      <p>{{ site.title }} is written and maintained by <a href="https://sentrysolutions.ai">Sentry AI</a>, an AI operations company in Auckland, New Zealand. Every guide answers one real buyer question and cites only first-party data.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,3 +1,10 @@
+---
+title: "How Much Does an AI Voice Agent Cost for Recruitment Agencies?"
+description: "An AI voice agent for a NZ or Australian recruitment agency costs NZD 500 to 2,500 per month managed, plus NZD 2,000 to 10,000 to build. Estimate yours."
+date: 2026-08-05
+keyword: "how much does an ai voice agent cost for recruitment agencies"
+---
+
 # How Much Does an AI Voice Agent Cost for Recruitment Agencies?
 
 > For a recruitment agency in New Zealand or Australia, an AI voice agent typically costs NZD 500 to NZD 2,500 per month for a managed service, on top of a one-off build cost of NZD 2,000 to NZD 10,000. Self-serve platforms are cheaper on paper (roughly USD 0.07 to USD 0.30 per call minute) but shift the build and maintenance burden onto your team. Deep ATS integration, compliance requirements and call volume are what move the price, not the AI itself. Demand for this category is real and largely unserved: across Sentry AI's own Google Search Console data for the last 90 days, queries for AI voice agents in recruitment generated 473 impressions with no established provider consistently ranking for them.
@@ -23,6 +30,33 @@ Within the range, the price moves on three things: call volume, the number of di
 ### 3. Custom enterprise builds (NZD 15,000 to NZD 50,000+ setup)
 
 Larger agencies and RPO providers with compliance requirements, multiple brands, or bespoke ATS setups sit here. The premium pays for security review, audit trails, custom data residency arrangements, load handling for campaign spikes, and formal testing before anything touches a live candidate. At this tier the voice agent is treated as operational infrastructure rather than a tool, which is the correct framing for any agency running thousands of candidate conversations per month.
+
+## Estimate your monthly cost
+
+Move the two inputs to see the usage-only cost at self-serve platform rates, and the managed-service range this guide describes. Figures are NZD, exclusive of GST, and use the per-minute rates quoted above (USD 0.07 to USD 0.30, converted at 1.65).
+
+<div class="aog-tool" id="aog-voice-cost">
+  <label for="aog-calls">Screening calls per month</label>
+  <input id="aog-calls" type="number" min="0" step="50" value="500">
+  <label for="aog-mins">Average call length (minutes)</label>
+  <input id="aog-mins" type="number" min="1" step="1" value="5">
+  <output id="aog-out" for="aog-calls aog-mins"></output>
+  <small>Usage cost excludes telephony and the build. Managed range reflects the tier most NZ and AU agencies buy.</small>
+</div>
+<script>
+(function () {
+  var calls = document.getElementById('aog-calls'), mins = document.getElementById('aog-mins'), out = document.getElementById('aog-out');
+  function nz(n) { return 'NZD ' + Math.round(n).toLocaleString('en-NZ'); }
+  function render() {
+    var m = Math.max(0, +calls.value || 0) * Math.max(0, +mins.value || 0);
+    var lo = m * 0.07 * 1.65, hi = m * 0.30 * 1.65;
+    var managedLo = Math.max(500, Math.min(2500, 500 + m / 2500 * 800));
+    var managedHi = Math.max(managedLo, Math.min(2500, 1200 + m / 2500 * 1300));
+    out.textContent = m.toLocaleString('en-NZ') + ' call minutes: self-serve usage ' + nz(lo) + ' to ' + nz(hi) + ' per month; managed service about ' + nz(managedLo) + ' to ' + nz(managedHi) + ' per month plus setup.';
+  }
+  calls.addEventListener('input', render); mins.addEventListener('input', render); render();
+})();
+</script>
 
 ## The cost drivers quotes leave out
 

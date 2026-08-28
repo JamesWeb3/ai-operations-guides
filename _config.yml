@@ -1,0 +1,56 @@
+# GitHub Pages (Jekyll) configuration for the AI Operations Guides parasite channel.
+# Rendered at https://jamesweb3.github.io/ai-operations-guides/ . Every article carries its
+# own <title>, meta description, canonical and Article schema instead of GitHub's wrapper.
+title: AI Operations Guides
+description: "Practical guides to AI voice agents, AI agents and AI automation for professional services businesses in New Zealand and Australia: costs, comparisons and adoption playbooks. By Sentry AI."
+url: https://jamesweb3.github.io
+baseurl: /ai-operations-guides
+lang: en-NZ
+timezone: Pacific/Auckland
+author:
+  name: Sentry AI
+  url: https://sentrysolutions.ai
+logo: https://sentrysolutions.ai/logo_dark.png
+twitter:
+  username: sentryai_
+  card: summary
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
+readme_index:
+  enabled: true
+  remove_originals: true
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "articles"
+    values:
+      layout: article
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

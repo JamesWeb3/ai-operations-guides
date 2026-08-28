@@ -1,3 +1,10 @@
+---
+title: "How Much Does an AI Voice Agent Cost for Law Firms?"
+description: "An AI voice agent for a NZ or Australian law firm costs NZD 600 to 3,000 per month managed, plus NZD 3,000 to 12,000 to build. What sets the price."
+date: 2026-08-21
+keyword: "how much does an ai voice agent cost for law firms"
+---
+
 # How Much Does an AI Voice Agent Cost for Law Firms?
 
 > For a law firm in New Zealand or Australia, an AI voice agent typically costs NZD 600 to NZD 3,000 per month for a managed service, on top of a one-off build of NZD 3,000 to NZD 12,000. Self-serve platforms look cheaper (roughly USD 0.07 to USD 0.30 per call minute) but push the confidentiality, conflict-checking and matter-integration work onto your own team. What moves the price is not the AI: it is client confidentiality, conflict-of-interest screening, and how deeply the agent plugs into your practice management system. Demand is early: across Sentry AI's own Google Search Console data for the 90 days to August 2026, the AI voice agent query cluster drew more than 690 impressions against our site, yet not one of those searches named a law firm or legal practice, so legal has no incumbent answer at all.
