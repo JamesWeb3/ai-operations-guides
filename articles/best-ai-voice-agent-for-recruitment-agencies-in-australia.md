@@ -29,7 +29,7 @@ So the best option for your agency is the one that scores highest on operational
 
 **4. Compliance and consent.** This is where operating nationally is genuinely harder than operating in one city, and it deserves its own section below. Candidate data an AI agent collects sits under the federal Privacy Act 1988 and the Australian Privacy Principles exactly as a consultant's notes do. Recording, though, is governed state by state, and a single agent screening candidates who pick up in different states is subject to whichever rule applies where the call lands.
 
-**5. Ownership after go-live.** The best agent in month one degrades by month three if nobody tunes it. Decide before you buy whether that owner is your team (self-serve) or the partner (managed). This is the real build-versus-buy question, not the software licence.
+**5. Ownership after go-live.** The best agent in month one degrades by month three if nobody tunes it. Decide before you buy whether that owner is your team (self-serve) or the partner (managed). This is the real build-versus-buy question, not the software licence. Agencies selling into enterprise or government, where a tender may ask how you govern AI, should note that the same ownership discipline is what [ISO 42001 certification for Australian businesses](iso-42001-certification-for-australian-businesses.md) formalises.
 
 ## The recording-law patchwork is the national problem
 
