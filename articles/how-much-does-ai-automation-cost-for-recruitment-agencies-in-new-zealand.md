@@ -39,7 +39,7 @@ Within the range, price moves on three things: the number of workflows automated
 
 ### 3. Custom enterprise builds (NZD 25,000 to NZD 75,000+ setup)
 
-Larger agencies and RPO providers with compliance requirements, multiple brands, or bespoke ATS setups sit here. The premium pays for security review, audit trails, data residency arrangements, load handling for campaign spikes, and formal testing before anything touches a live candidate or client. At this tier automation is treated as operational infrastructure with an owner, which is the correct framing for any agency running thousands of candidate conversations a month.
+Larger agencies and RPO providers with compliance requirements, multiple brands, or bespoke ATS setups sit here. The premium pays for security review, audit trails, data residency arrangements, load handling for campaign spikes, and formal testing before anything touches a live candidate or client. Agencies whose enterprise or government clients ask for audited AI governance should factor in [ISO 42001 certification for New Zealand businesses](iso-42001-certification-for-new-zealand-businesses.md), which turns those audit trails and oversight controls into a recognised certificate. At this tier automation is treated as operational infrastructure with an owner, which is the correct framing for any agency running thousands of candidate conversations a month.
 
 ## The cost drivers quotes leave out
 
