@@ -100,7 +100,7 @@ The standard does not mandate a storage location. It requires you to govern wher
 
 ### How is ISO 42001 different from ISO 27001?
 
-ISO 27001 governs information security; ISO 42001 governs the AI-specific risks that security controls alone do not cover, such as model behaviour, human oversight, transparency to affected people, and impact assessment. They share the same management-system structure, so an organisation already certified to ISO 27001 has done much of the groundwork and can often reach ISO 42001 faster.
+ISO 27001 governs information security; ISO 42001 governs the AI-specific risks that security controls alone do not cover, such as model behaviour, human oversight, transparency to affected people, and impact assessment. They share the same management-system structure, so an organisation already certified to ISO 27001 has done much of the groundwork and can often reach ISO 42001 faster. If your buyers also ask for the US SOC 2 attestation, the trade-off between the two is set out in [ISO 42001 vs SOC 2 for AI companies](iso-42001-vs-soc-2-for-ai-companies.md).
 
 ### Can a small business get ISO 42001 certified?
 

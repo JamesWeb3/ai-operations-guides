@@ -24,6 +24,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 ## AI governance
 
+- [ISO 42001 vs SOC 2 for AI Companies: Which One Do You Need?](articles/iso-42001-vs-soc-2-for-ai-companies.md)
 - [How Much Does ISO 42001 Certification Cost?](articles/how-much-does-iso-42001-certification-cost.md)
 - [ISO 42001 Certification for New Zealand Businesses: What It Costs and How to Get Certified](articles/iso-42001-certification-for-new-zealand-businesses.md)
 - [ISO 42001 Certification for Australian Businesses: What It Costs and How to Get Certified](articles/iso-42001-certification-for-australian-businesses.md)
