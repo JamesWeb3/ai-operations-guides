@@ -30,6 +30,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [ISO 42001 Certification for Australian Businesses: What It Costs and How to Get Certified](articles/iso-42001-certification-for-australian-businesses.md)
 - [EU AI Act Compliance for New Zealand Businesses: Does It Apply to You?](articles/eu-ai-act-compliance-for-new-zealand-businesses.md)
 - [EU AI Act Compliance for Australian Businesses: Does It Apply to You?](articles/eu-ai-act-compliance-for-australian-businesses.md)
+- [What the EU AI Act Means for Australian Exporters](articles/what-the-eu-ai-act-means-for-australian-exporters.md)
 
 ---
 
