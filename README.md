@@ -31,6 +31,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [EU AI Act Compliance for New Zealand Businesses: Does It Apply to You?](articles/eu-ai-act-compliance-for-new-zealand-businesses.md)
 - [EU AI Act Compliance for Australian Businesses: Does It Apply to You?](articles/eu-ai-act-compliance-for-australian-businesses.md)
 - [What the EU AI Act Means for Australian Exporters](articles/what-the-eu-ai-act-means-for-australian-exporters.md)
+- [The NIST AI Risk Management Framework for Australian Businesses](articles/nist-ai-risk-management-framework-for-australian-businesses.md)
 
 ---
 

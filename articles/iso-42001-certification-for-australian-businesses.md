@@ -92,7 +92,7 @@ ISO/IEC 42001 is the first international standard for an AI management system, p
 
 ### Is ISO 42001 mandatory in Australia?
 
-No, it is voluntary. Australia has published a Voluntary AI Safety Standard and consulted on mandatory guardrails for high-risk AI, but there is no law requiring ISO 42001 today. Businesses pursue it because customers and tenders increasingly ask for governance evidence, and a recognised certificate is the cleanest way to provide it.
+No, it is voluntary. Australia has published a Voluntary AI Safety Standard and consulted on mandatory guardrails for high-risk AI, but there is no law requiring ISO 42001 today. Businesses pursue it because customers and tenders increasingly ask for governance evidence, and a recognised certificate is the cleanest way to provide it. Many teams operate the free [NIST AI risk management framework for Australian businesses](nist-ai-risk-management-framework-for-australian-businesses.md) first, then certify against ISO 42001 once those controls demonstrably run.
 
 ### Where does our data have to be stored to certify?
 

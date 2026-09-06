@@ -26,7 +26,7 @@ The Act regulates by risk, not by technology. Everything falls into one of four 
 - **Limited-risk.** Systems that interact with people or generate content carry transparency duties (Article 50): a chatbot must disclose it is a machine, and synthetic or deepfake content must be labelled. Light to meet, easy to overlook.
 - **Minimal-risk.** Everything else (spam filters, recommendation engines, most productivity AI) carries no new obligations under the Act.
 
-For high-risk systems the requirements are concrete: a risk-management process, data governance, technical documentation, record-keeping and logging (Article 12), human oversight (Article 14), and accuracy, robustness and cybersecurity. Those last two, logging and human oversight, are where paper compliance and real compliance part ways.
+For high-risk systems the requirements are concrete: a risk-management process, data governance, technical documentation, record-keeping and logging (Article 12), human oversight (Article 14), and accuracy, robustness and cybersecurity. Those last two, logging and human oversight, are where paper compliance and real compliance part ways. The risk-management process the Act expects is the same discipline set out in the [NIST AI risk management framework for Australian businesses](nist-ai-risk-management-framework-for-australian-businesses.md), which most teams use to produce that documentation in the first place.
 
 ## Work out your tier
 
