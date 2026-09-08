@@ -24,6 +24,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 ## AI governance
 
+- [Shadow AI Policy for Businesses: What to Put in It and How to Enforce It](articles/shadow-ai-policy-for-businesses.md)
 - [ISO 42001 vs SOC 2 for AI Companies: Which One Do You Need?](articles/iso-42001-vs-soc-2-for-ai-companies.md)
 - [NIST AI RMF vs ISO 42001: Which AI Governance Framework Do You Need?](articles/nist-ai-rmf-vs-iso-42001.md)
 - [How Much Does ISO 42001 Certification Cost?](articles/how-much-does-iso-42001-certification-cost.md)
