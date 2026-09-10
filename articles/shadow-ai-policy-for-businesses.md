@@ -47,7 +47,7 @@ The hard part is not writing the policy, it is making it real. Three layers do m
 
 **Make the safe path the easy path.** An approval route that is fast and visible means people use it. An approval route that is slow and buried means they route around it. This is the same design principle that governs automated systems: the strongest control is not blocking an action, it is requiring a quick human sign-off before a sensitive one proceeds, so the default is safe without being frozen.
 
-**Get visibility, then coach.** Browser and network tooling can show you which AI services are in use across the business. The point of that visibility is not to punish, it is to find out what people actually need and fold the genuinely useful tools into the approved list. Most shadow AI is not malicious, it is unmet demand.
+**Get visibility, then coach.** Browser and network tooling can show you which AI services are in use across the business, and our guide on [how to detect shadow AI in your organisation](how-to-detect-shadow-ai-in-your-organisation.md) sets out the five signals to read before you write the approved list. The point of that visibility is not to punish, it is to find out what people actually need and fold the genuinely useful tools into the approved list. Most shadow AI is not malicious, it is unmet demand.
 
 ### What our own operations data shows about approval gates
 
