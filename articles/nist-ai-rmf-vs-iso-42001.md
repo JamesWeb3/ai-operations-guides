@@ -97,7 +97,7 @@ Yes, and most organisations should. The four NIST functions produce the operatin
 
 ### Which AI governance framework should a New Zealand business use?
 
-Start with the NIST AI RMF because it is free, detailed and technology-neutral, then certify to ISO 42001 through a JAS-ANZ accredited body when a buyer or tender requires it. Both map onto the Privacy Act 2020, so the governance work is not wasted whichever way your obligations develop.
+Start with the NIST AI RMF because it is free, detailed and technology-neutral, then certify to ISO 42001 through a JAS-ANZ accredited body when a buyer or tender requires it. Both map onto the Privacy Act 2020, so the governance work is not wasted whichever way your obligations develop. For how the two sit alongside the local law as a single stack, see our guide to the [AI governance framework for New Zealand businesses](ai-governance-framework-for-new-zealand-businesses.md).
 
 ### Is either one legally required?
 

@@ -19,7 +19,7 @@ Governance is the set of controls you put around the AI your business builds or 
 
 1. **An AI inventory and ownership.** A list of every AI tool and system in use, who owns each, and what data it touches. This is the cheapest layer and the one everything else depends on, because you cannot govern what you have not listed, which is why it starts with [how to detect shadow AI in your organisation](how-to-detect-shadow-ai-in-your-organisation.md).
 2. **A staff-facing policy.** A [shadow AI policy for businesses](shadow-ai-policy-for-businesses.md) that names which tools staff may use, draws a hard line around personal and confidential data, and routes exceptions through a named approver. This is the layer you can publish this month.
-3. **A framework and controls.** Risk assessment, human oversight of consequential decisions, logging and traceability, and a review cycle, usually organised against a recognised framework so the work is structured rather than ad hoc.
+3. **A framework and controls.** Risk assessment, human oversight of consequential decisions, logging and traceability, and a review cycle, usually organised against a recognised framework so the work is structured rather than ad hoc. Which framework to run, and where the local law fits, is the subject of our guide to the [AI governance framework for New Zealand businesses](ai-governance-framework-for-new-zealand-businesses.md).
 4. **External certification.** An audited certificate (ISO/IEC 42001) that proves the framework demonstrably runs, for buyers, tenders or regulators who will not take your word for it.
 
 The cost question is really the question of how many of these layers you need, and how much of each you already have.
