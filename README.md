@@ -26,6 +26,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 - [The Best AI Governance Platform for Australian Businesses](articles/best-ai-governance-platform-for-australian-businesses.md)
 - [AI Governance Framework for New Zealand Businesses: What to Adopt and Why](articles/ai-governance-framework-for-new-zealand-businesses.md)
+- [AI Governance Framework for Australian Businesses: What to Adopt and in What Order](articles/ai-governance-framework-for-australian-businesses.md)
 - [How Much Does AI Governance Cost for Mid-Sized Businesses?](articles/how-much-does-ai-governance-cost-for-mid-sized-businesses.md)
 - [Shadow AI Policy for Businesses: What to Put in It and How to Enforce It](articles/shadow-ai-policy-for-businesses.md)
 - [How to Detect Shadow AI in Your Organisation](articles/how-to-detect-shadow-ai-in-your-organisation.md)
