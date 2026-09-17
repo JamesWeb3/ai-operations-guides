@@ -24,6 +24,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 ## AI governance
 
+- [The Best AI Governance Platform for New Zealand Businesses](articles/best-ai-governance-platform-for-new-zealand-businesses.md)
 - [The Best AI Governance Platform for Australian Businesses](articles/best-ai-governance-platform-for-australian-businesses.md)
 - [AI Governance Framework for New Zealand Businesses: What to Adopt and Why](articles/ai-governance-framework-for-new-zealand-businesses.md)
 - [AI Governance Framework for Australian Businesses: What to Adopt and in What Order](articles/ai-governance-framework-for-australian-businesses.md)
