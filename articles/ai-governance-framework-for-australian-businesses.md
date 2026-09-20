@@ -87,7 +87,7 @@ Use your situation, not the acronym. The selector below maps where you are onto 
 
 ### Is AI regulated in Australia?
 
-Not yet by a dedicated statute. Australia has no AI-specific Act in force and governs AI through existing law, chiefly the Privacy Act 1988 and the Australian Privacy Principles, alongside consumer, anti-discrimination and sector rules. The federal Voluntary AI Safety Standard adds ten voluntary guardrails, and the government has consulted on making guardrails mandatory for high-risk AI. A governance framework is how you meet those distributed and emerging obligations deliberately.
+Not yet by a dedicated statute. Australia has no AI-specific Act in force and governs AI through existing law, chiefly the Privacy Act 1988 and the Australian Privacy Principles, alongside consumer, anti-discrimination and sector rules. The federal Voluntary AI Safety Standard adds ten voluntary guardrails, and the government has consulted on making guardrails mandatory for high-risk AI. Regulated sectors carry more of it than a general business: [AI governance for healthcare providers in Australia](ai-governance-for-healthcare-providers-in-australia.md) shows how the same stack loads more into its base layer. A governance framework is how you meet those distributed and emerging obligations deliberately.
 
 ### What is ISO/IEC 42001?
 
