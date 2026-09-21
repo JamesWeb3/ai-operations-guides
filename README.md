@@ -28,6 +28,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [The Best AI Governance Platform for Australian Businesses](articles/best-ai-governance-platform-for-australian-businesses.md)
 - [AI Governance for Financial Services in New Zealand: What Regulated Firms Have to Build](articles/ai-governance-for-financial-services-in-new-zealand.md)
 - [AI Governance for Financial Services in Australia: What Regulated Firms Have to Build](articles/ai-governance-for-financial-services-in-australia.md)
+- [AI Governance for Healthcare Providers in New Zealand: What Regulated Care Has to Build](articles/ai-governance-for-healthcare-providers-in-new-zealand.md)
 - [AI Governance for Healthcare Providers in Australia: What Regulated Care Has to Build](articles/ai-governance-for-healthcare-providers-in-australia.md)
 - [AI Governance Framework for New Zealand Businesses: What to Adopt and Why](articles/ai-governance-framework-for-new-zealand-businesses.md)
 - [AI Governance Framework for Australian Businesses: What to Adopt and in What Order](articles/ai-governance-framework-for-australian-businesses.md)
