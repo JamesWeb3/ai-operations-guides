@@ -100,7 +100,7 @@ Detection is a snapshot, and shadow AI regenerates the moment a new tool launche
 
 ### What is shadow AI, and how is it different from agent sprawl?
 
-Shadow AI is unsanctioned use of AI tools by people, such as staff pasting company data into a free chatbot. Agent sprawl is the related problem of too many AI agents and automations proliferating without central oversight. Detection techniques overlap: both are ultimately about knowing what AI is running in your business and under whose authority. Shadow AI is the human-driven slice, agent sprawl the automated one.
+Shadow AI is unsanctioned use of AI tools by people, such as staff pasting company data into a free chatbot. Agent sprawl is the related problem of too many AI agents and automations proliferating without central oversight. Detection techniques overlap: both are ultimately about knowing what AI is running in your business and under whose authority. Shadow AI is the human-driven slice, agent sprawl the automated one, and governing that automated slice is the job of an [AI agent governance platform for enterprises](ai-agent-governance-platform-for-enterprises.md).
 
 ### Can you detect shadow AI without monitoring staff?
 

@@ -24,6 +24,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 ## AI governance
 
+- [AI Agent Governance Platform for Enterprises](articles/ai-agent-governance-platform-for-enterprises.md)
 - [The Best AI Governance Platform for New Zealand Businesses](articles/best-ai-governance-platform-for-new-zealand-businesses.md)
 - [The Best AI Governance Platform for Australian Businesses](articles/best-ai-governance-platform-for-australian-businesses.md)
 - [AI Governance for Financial Services in New Zealand: What Regulated Firms Have to Build](articles/ai-governance-for-financial-services-in-new-zealand.md)
