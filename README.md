@@ -22,6 +22,10 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [How Much Does AI Automation Cost for Recruitment Agencies in New Zealand?](articles/how-much-does-ai-automation-cost-for-recruitment-agencies-in-new-zealand.md)
 - [How Much Does AI Automation Cost for Recruitment Agencies in Australia?](articles/how-much-does-ai-automation-cost-for-recruitment-agencies-in-australia.md)
 
+## AI agent management
+
+- [The Best AI Agent Management Platform for Australian Businesses](articles/best-ai-agent-management-platform-for-australian-businesses.md)
+
 ## AI governance
 
 - [AI Agent Governance Platform for Enterprises](articles/ai-agent-governance-platform-for-enterprises.md)

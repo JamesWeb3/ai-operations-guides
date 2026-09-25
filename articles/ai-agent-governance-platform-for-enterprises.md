@@ -88,7 +88,7 @@ Agent sprawl is the uncontrolled proliferation of autonomous agents across an en
 
 ### How do we control which model tier an agent uses?
 
-Through routing controls in the platform, so each agent uses an appropriate model and tool set for the task rather than defaulting to the most powerful and most expensive one for commodity work. This is both a cost control and a governance control: constraining what tools and models an agent may reach for a given task narrows its blast radius as well as its bill. A governance platform should let you set and audit those routing rules per agent, not leave them buried in application code.
+Through routing controls in the platform, so each agent uses an appropriate model and tool set for the task rather than defaulting to the most powerful and most expensive one for commodity work. This is both a cost control and a governance control: constraining what tools and models an agent may reach for a given task narrows its blast radius as well as its bill. A governance platform should let you set and audit those routing rules per agent, not leave them buried in application code. The day-to-day side of that control, routing and inventory across a running fleet, is the job of an [AI agent management platform](best-ai-agent-management-platform-for-australian-businesses.md).
 
 ### Do we need ISO/IEC 42001 to govern agents?
 
