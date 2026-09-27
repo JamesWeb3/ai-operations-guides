@@ -24,6 +24,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 
 ## AI agent management
 
+- [The Best AI Agent Management Platform for New Zealand Businesses](articles/best-ai-agent-management-platform-for-new-zealand-businesses.md)
 - [The Best AI Agent Management Platform for Australian Businesses](articles/best-ai-agent-management-platform-for-australian-businesses.md)
 
 ## AI governance
