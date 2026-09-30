@@ -95,7 +95,7 @@ Agent sprawl is the uncontrolled spread of autonomous agents across a business: 
 
 ### How do we route AI tasks to the right model tier so we are not paying frontier prices for commodity work?
 
-Through routing controls in the management layer, so each agent uses the cheapest model that meets the task rather than defaulting to the most powerful one for everything. On a recruitment desk, CV parsing, tagging and enrichment rarely need a frontier model, while shortlisting judgement sometimes does. A management layer should let you set the routing per agent and audit what actually ran, so the saving is real and provable rather than assumed.
+Through routing controls in the management layer, so each agent uses the cheapest model that meets the task rather than defaulting to the most powerful one for everything. On a recruitment desk, CV parsing, tagging and enrichment rarely need a frontier model, while shortlisting judgement sometimes does. A management layer should let you set the routing per agent and audit what actually ran, so the saving is real and provable rather than assumed. For how routing and the platform layer together shape the bill, see our breakdown of [how much an AI agent management platform costs](how-much-does-an-ai-agent-management-platform-cost.md).
 
 ### Is a managed agent fleet better than an off-the-shelf recruitment AI tool?
 
