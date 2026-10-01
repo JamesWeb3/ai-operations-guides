@@ -22,7 +22,7 @@ Governance is the set of controls you put around the AI your business builds or 
 3. **A framework and controls.** Risk assessment, human oversight of consequential decisions, logging and traceability, and a review cycle, usually organised against a recognised framework so the work is structured rather than ad hoc. Which framework to run, and where the local law fits, is the subject of our guide to the [AI governance framework for New Zealand businesses](ai-governance-framework-for-new-zealand-businesses.md).
 4. **External certification.** An audited certificate (ISO/IEC 42001) that proves the framework demonstrably runs, for buyers, tenders or regulators who will not take your word for it.
 
-The cost question is really the question of how many of these layers you need, and how much of each you already have.
+The cost question is really the question of how many of these layers you need, and how much of each you already have. Which layers you buy as dedicated software and which you run another way is a separate decision, weighed in our guide to [AI governance software alternatives](ai-governance-software-alternatives.md).
 
 ## The three cost tiers
 
