@@ -31,7 +31,7 @@ Strip away the marketing and the category reduces to a handful of load-bearing f
 | Human approval gate | Which consequential actions cannot run without a person confirming |
 | Integration with your stack | Can agents reach the CRM, finance and support systems you already run |
 
-The two that separate a real platform from a slide are the action log and the approval gate, because they are the two a demo cannot fake. The log has to be written before the next action runs, so the record cannot be tidied up after something goes wrong. The gate has to be enforced in the execution path, not documented beside it, so a person genuinely stands between an agent and the action that moves money or contacts a customer. When you assess a platform, ask to see both operating on a live account, not a sample screenshot.
+The two that separate a real platform from a slide are the action log and the approval gate, because they are the two a demo cannot fake. The log has to be written before the next action runs, so the record cannot be tidied up after something goes wrong. The gate has to be enforced in the execution path, not documented beside it, so a person genuinely stands between an agent and the action that moves money or contacts a customer. When you assess a platform, ask to see both operating on a live account, not a sample screenshot. The engine beneath this, the one that fires the runs in order, hands work between agents and retries failures, is [AI agent orchestration for enterprises](ai-agent-orchestration-for-enterprises.md), and a management layer is only as reliable as the orchestration underneath it.
 
 ## Agent sprawl is the failure to prevent
 
