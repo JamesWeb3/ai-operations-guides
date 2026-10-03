@@ -29,6 +29,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [AI Agent Management for Recruitment Agencies](articles/ai-agent-management-for-recruitment-agencies.md)
 - [How Much Does an AI Agent Management Platform Cost?](articles/how-much-does-an-ai-agent-management-platform-cost.md)
 - [AI Agent Orchestration for Enterprises](articles/ai-agent-orchestration-for-enterprises.md)
+- [Agent Observability for AI Operations Teams](articles/agent-observability-for-ai-operations-teams.md)
 
 ## AI governance
 

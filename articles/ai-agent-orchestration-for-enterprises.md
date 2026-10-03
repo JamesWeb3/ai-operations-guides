@@ -15,7 +15,7 @@ For an enterprise, AI agent orchestration is the control layer that coordinates 
 
 A single agent plans, calls tools, reads and writes data, and chains steps toward a goal without a human in every loop. That is already useful. Orchestration is the problem that appears the moment you have more than two or three of them: the work has to be scheduled, retried, sequenced and routed, and the whole fleet has to be observable at once. The jump from one agent to many is not a matter of scale alone, it is a change in kind, because the failure modes stop being about one agent's output and start being about coordination: two agents acting on the same record, a scheduled run that silently did not fire, a commodity task quietly billing at frontier-model rates across the fleet.
 
-This is why orchestration sits above the single agent and below the business. Below it, each agent does its narrow job. Above it, the enterprise sees one accountable system. The orchestration layer is where scheduling, routing, hand-offs, retries, logging and approval all live, and it is the layer most teams discover they need only after they have stood up enough agents to lose track of them.
+This is why orchestration sits above the single agent and below the business. Below it, each agent does its narrow job. Above it, the enterprise sees one accountable system. The orchestration layer is where scheduling, routing, hand-offs, retries, logging and approval all live, and it is the layer most teams discover they need only after they have stood up enough agents to lose track of them. Keeping sight of that fleet once it runs is the job of [agent observability for AI operations teams](agent-observability-for-ai-operations-teams.md).
 
 ## What an enterprise orchestration layer must do
 
