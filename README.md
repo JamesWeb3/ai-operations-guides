@@ -30,6 +30,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [AI Agent Management for Law Firms](articles/ai-agent-management-for-law-firms.md)
 - [AI Agent Management for Medical Clinics](articles/ai-agent-management-for-medical-clinics.md)
 - [How Much Does an AI Agent Management Platform Cost?](articles/how-much-does-an-ai-agent-management-platform-cost.md)
+- [AI Agent Management System for Mid-Sized Businesses](articles/ai-agent-management-system-for-mid-sized-businesses.md)
 - [AI Agent Orchestration for Enterprises](articles/ai-agent-orchestration-for-enterprises.md)
 - [Agent Observability for AI Operations Teams](articles/agent-observability-for-ai-operations-teams.md)
 
