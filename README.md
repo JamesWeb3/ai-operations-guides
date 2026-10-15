@@ -33,6 +33,7 @@ Every guide answers one real buyer question, leads with the answer, and cites on
 - [AI Agent Management System for Mid-Sized Businesses](articles/ai-agent-management-system-for-mid-sized-businesses.md)
 - [AI Agent Orchestration for Enterprises](articles/ai-agent-orchestration-for-enterprises.md)
 - [Agent Observability for AI Operations Teams](articles/agent-observability-for-ai-operations-teams.md)
+- [How to Stop AI Agent Sprawl in the Enterprise](articles/how-to-stop-ai-agent-sprawl-in-the-enterprise.md)
 
 ## AI governance
 

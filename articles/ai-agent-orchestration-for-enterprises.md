@@ -96,7 +96,7 @@ An AI agent is a single autonomous actor: it plans, calls tools and chains steps
 
 ### What is agent sprawl and how does orchestration address it?
 
-Agent sprawl is the uncontrolled proliferation of autonomous agents across an enterprise: different teams standing up agents that touch real systems with no central register, owner or schedule. Orchestration addresses it by making every agent run through one layer that knows the agent exists, what it is allowed to touch, and what it did. You cannot route, cost or control agents you have not counted, so a continuous inventory is the precondition for orchestration rather than a feature of it.
+Agent sprawl is the uncontrolled proliferation of autonomous agents across an enterprise: different teams standing up agents that touch real systems with no central register, owner or schedule. Orchestration addresses it by making every agent run through one layer that knows the agent exists, what it is allowed to touch, and what it did. You cannot route, cost or control agents you have not counted, so a continuous inventory is the precondition for orchestration rather than a feature of it. Our guide to [how to stop AI agent sprawl in the enterprise](how-to-stop-ai-agent-sprawl-in-the-enterprise.md) sets out that inventory-first sequence in full.
 
 ### How do we route AI tasks to the right model tier so we are not paying frontier prices for commodity work?
 
