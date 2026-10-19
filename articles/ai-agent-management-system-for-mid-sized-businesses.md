@@ -105,7 +105,7 @@ Yes, and that is usually the reason a mid-sized firm adopts one. Routed correctl
 
 ### Custom or off-the-shelf: which agent approach suits a mid-sized business?
 
-For most mid-sized firms the honest answer is a managed platform for the control layer and custom only where the work is genuinely specific. Building the register, routing, logging and approval gate from scratch is an enterprise-scale effort that rarely pays back at mid size, while a bespoke agent for a workflow that is core to your business can. Buy the management system, build the agents that are your actual edge. If you want that reasoned against your own situation, our [AI opportunity audit](https://sentrysolutions.ai/ai-opportunity-audit) maps where custom work earns its cost.
+For most mid-sized firms the honest answer is a managed platform for the control layer and custom only where the work is genuinely specific. Building the register, routing, logging and approval gate from scratch is an enterprise-scale effort that rarely pays back at mid size, while a bespoke agent for a workflow that is core to your business can. Buy the management system, build the agents that are your actual edge. We reason this through in full in our comparison of [an AI agent management platform versus building in-house](ai-agent-management-platform-vs-building-in-house.md). If you want that reasoned against your own situation, our [AI opportunity audit](https://sentrysolutions.ai/ai-opportunity-audit) maps where custom work earns its cost.
 
 ### Is an agent management system the same as AI governance?
 
